@@ -53,5 +53,38 @@ p {
     margin-bottom: 30px;
 }
 
+.canvas {       
+    width: 800px;
+    height: 1000px;
+    background-color: white;
+    background-image: url(/images/bg.png);
+    margin: 0 auto; 
+}
+
+.img-1, .img-2, .img-3 {
+    position: absolute;
+    margin-top: 250px;
+}
+
+.img-1 {
+    left: 960px;
+}
+.img-2 {
+    left: 710px;
+}
+.img-3 {
+    left: 460px;
+}
+
+.slogan {
+    position: absolute;
+    margin: 150px 0 0 50px;
+}
+
+.second-slogan {
+    position: absolute;
+    margin-top: 722px;
+    margin-left: 32px;
+}
 
 
